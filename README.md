@@ -8,7 +8,7 @@ anitube.in.ua downloader written in Python
 pip install requests beautifulsoup4
 ```
  
-> **Note:** [ffmpeg](https://ffmpeg.org/download.html) is required for downloading HLS streams. Without it the downloader will fall back to a raw segment-stitching method which produces lower compatibility output.
+> **Note:** [ffmpeg](https://ffmpeg.org/download.html) is strongly recommended for downloading HLS streams. Without it the downloader will fall back to a raw segment-stitching method which produces lower compatibility output.
  
 ## Usage
  
