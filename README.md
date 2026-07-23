@@ -1,4 +1,4 @@
-# anitube.in.ua downloader
+# YAAD - Yet Another Anitube Downloader
  
 anitube.in.ua downloader written in Python
  
